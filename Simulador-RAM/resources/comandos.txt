@@ -1,0 +1,14 @@
+READ
+LOAD **x
+STORE *x
+ADD **x
+SUB **x
+MUL **x
+DIV **x
+INC
+DEC
+JUMP x
+JEZ x
+JNEZ x
+WRITE
+HALT
